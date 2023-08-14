@@ -1,0 +1,25 @@
+* {
+    background-color: rgb(7, 76, 53);
+}
+h1 {
+    color: #b5630c;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+a,
+li {
+    color: rgb(212, 33, 134);
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
