@@ -1,25 +1,42 @@
 * {
-    background-color: rgb(7, 76, 53);
+    background-color: #34495e;
 }
-h1 {
-    color: #b5630c;
-    font-size: 40px;
+
+h1,
+p,
+ul {
     text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1 {
+    color: #f1c40f;
+    font-size: 40px;
     margin-top: 40px;
     margin-bottom: 40px;
     font-weight: bold;
-    font-family: 'Roboto', sans-serif;
 }
 
 p {
     color: white;
     font-size: 20px;
-    font-family: 'Roboto', sans-serif;
+    
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
 }
 
 a,
 li {
-    color: rgb(212, 33, 134);
+    color: #e74c3c;
     font-size: 20px;
-    font-family: 'Roboto', sans-serif;
 }
